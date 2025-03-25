@@ -1,0 +1,21 @@
+{
+  "name": "toasty-theme",
+  "displayName": "toasty-theme",
+  "description": "it's toasty",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toasty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toasty-color-theme.json"
+      }
+    ]
+  }
+}
