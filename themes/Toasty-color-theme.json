@@ -1,10 +1,13 @@
 {
 	"name": "Toasty",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#3a2f2b5c",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#325e33",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorLineNumber.foreground": "#65514a",
+		"statusBar.background": "#567e51",
+		"editorLineNumber.activeForeground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
